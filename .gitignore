@@ -1,0 +1,9 @@
+#dependencies
+/node_modules
+/.php
+.project
+.idea
+debug.log
+
+#production
+/build
